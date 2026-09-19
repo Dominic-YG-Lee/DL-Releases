@@ -13,6 +13,11 @@ https://dl-vale-virgo.pages.dev
 
 ## English
 
-Each app has its own repository — see the table above.
+Each app has its own repository.
+
+| App | Download |
+|---|---|
+| **VALE** | [DL-Releases-VALE](https://github.com/Dominic-YG-Lee/DL-Releases-VALE/releases/latest) |
+| **VIRGO** | [DL-Releases-VIRGO](https://github.com/Dominic-YG-Lee/DL-Releases-VIRGO/releases/latest) |
 
 https://dl-vale-virgo.pages.dev
